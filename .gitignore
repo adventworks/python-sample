@@ -1,0 +1,9 @@
+# Project settings
+.idea/
+
+# Virtualenv
+venv/
+
+# Temporary files
+__pychache__/
+*.pyc

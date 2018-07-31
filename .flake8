@@ -1,0 +1,8 @@
+[flake8]
+exclude =
+    *.pyc,
+    .git,
+    __pychache__,
+    requirements.txt,
+
+max-line-length = 120
